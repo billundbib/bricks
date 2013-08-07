@@ -1,0 +1,3 @@
+<?php
+
+include_once('billund_cookie_popup.features.inc');
