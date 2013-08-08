@@ -8,3 +8,10 @@ features[ctools][] = "page_manager:pages_default:1"
 features[page_manager_handlers][] = "billund_frontpage"
 name = "Billund tabroll"
 package = "Billund"
+
+
+; Information added by drush on 2013-08-07
+version = "unknown"
+project = "bricks"
+datestamp = "1375876332"
+
