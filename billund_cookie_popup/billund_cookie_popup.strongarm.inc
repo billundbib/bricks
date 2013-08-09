@@ -25,7 +25,7 @@ Hvis du ikke vil tillade cookies - <a href=\'/cookies\'>se vejledning</a> og læ
       'format' => '2',
     ),
     'popup_agreed_enabled' => 1,
-    'popup_link' => 'cookie',
+    'popup_link' => 'cookies',
     'popup_height' => '',
     'popup_width' => '100%',
     'popup_delay' => '1',
